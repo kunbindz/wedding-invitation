@@ -1,26 +1,28 @@
 {
 	"timelines": [
 		{
-			"title": "Resepsi",
-			"date": "Sabtu, 22 Mei 2022",
-			"time": "08:30 WIB - 09:30 WIB",
-			"location": "Mesjid Jami An Nuur",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
+			"title": "Tiệc Nhà Gái",
+			"date": "Thứ 7, 03-09-2022",
+			"time": "16:30 - 17:00",
+			"location": "Tại tư gia nhà gái",
+			"address": "Đội 5, xã Phú Thịnh, huyện Kim Động, tỉnh Hưng Yên",
+			"map": "https://goo.gl/maps/S8DwgdCFidQ4cgLA6"
 		},
 		{
-			"title": "Akad Nikah",
-			"date": "Ahad, 21 Mei 2022",
-			"time": "08:00 WIB - 16:30 WIB",
-			"location": "Rumah Mempelai Pria",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
-
+			"title": "Tiệc Nhà Trai",
+			"date": "Chủ nhật, 04-09-2022",
+			"time": "08:00 - 11:00",
+			"location": "Tại tư gia nhà trai",
+			"address": "Thôn Duy Dương, xã Trung Lương , huyện Bình Lục, tỉnh Hà Nam",
+			"map": "https://goo.gl/maps/B5b2pATK4AZ8HR4s6"
 		},
 		{
-			"title": "Siraman",
-			"date": "Jum'at, 20 Mei 2022",
-			"time": "08:00 - 12:00 WIB",
-			"location": "Rumah Mempelai Pria",	
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
+			"title": "Lễ Thành Hôn",
+			"date": "Chủ nhật, 04-09-2022",
+			"time": "15:30",
+			"location": "Tại tư gia nhà trai",	
+			"address": "Thôn Duy Dương, xã Trung Lương , huyện Bình Lục, tỉnh Hà Nam",
+			"map": "https://goo.gl/maps/B5b2pATK4AZ8HR4s6"
 		}
 	]
 }

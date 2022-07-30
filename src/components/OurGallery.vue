@@ -12,7 +12,7 @@
         </div>
       </viewer>
       <!-- Our Story -->
-      <OurStory class="mt-10"></OurStory>
+      <!-- <OurStory class="mt-10 dynamo"></OurStory> -->
       <!-- Our Video -->
       <OurVideo class="mt-10"></OurVideo>
     </section>

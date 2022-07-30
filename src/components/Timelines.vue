@@ -9,19 +9,19 @@
 <template>
   <section class="w-full bg-gradient-to-b from-gray-700 to-gray-600">
     <section class="container-section pb-12">
-      <HeaderSection text-color="text-gray-100" subtitle="Dengan tidak mengurangi rasa hormat, kami mengajak para tamu undangan agar bisa berhadir pada serangkaian acara kami" title="Runtutan Acara"></HeaderSection>
+      <HeaderSection text-color="text-gray-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
       <Card>
         <template v-slot:body>
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
             <section data-aos="fade-up">
-              <h1 class="text-xl satisfy-font text-amber-400">{{ timeline.title }}</h1>
+              <h1 class="text-2xl satisfy-font text-amber-400">{{ timeline.title }}</h1>
               <p class="font-medium text-gray-100">{{ timeline.date }} | {{ timeline.time }}</p>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
               <p class="text-gray-200">{{ timeline.address }}</p>
-              <a class="btn" href="">
+              <a target="_blank" class="btn" :href="timeline.map">
                 <i class="fa-solid fa-map"></i>
-                Lihat Peta
+                Via Google Map
               </a>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500 rotate-180"></decoration>
             </section>
@@ -32,13 +32,13 @@
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
-              <p class="text-sm text-gray-100">Konfirmasi kehadiran anda pada buku tamu</p>
-              <button @click="goToGuestBook" class="btn">
-                <i class="fa-solid fa-clipboard-check"></i>
-                Konfirmasi
+              <p class="text-sm text-gray-100">NOTE : Không cần lên đồ lộng lẫy vì chính sự có mặt của bạn đã là trang sức tuyệt vời nhất cho buổi lễ 😄 </p>
+              <button onclick="location.href='https://calendar.google.com/calendar/u/0/r/eventedit/NTBvdHN0MGdwam02djdwbGttcDZzY2VubzYgb2JpdG80ODY5QHNldC5lZHUudm4'" class="btn">
+                <i class="fa-solid fa-bookmark"></i>
+                Save the date
               </button>
             </div>
-            <img src="@/assets/images/couples.png" alt="">
+            <img src="@/assets/images/thank.png" alt="">
           </section>
         </template>
       </Card>
@@ -64,6 +64,9 @@ onMounted(() => {
 
 // Handler for navigate to guest book
 const emits = defineEmits(['goToGuestBook'])
+const savethedate = () => {
+
+}
 
 const goToGuestBook = () => setTimeout(() => { emits('goToGuestBook') }, 300)
 
