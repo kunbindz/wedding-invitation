@@ -6,7 +6,6 @@
     <Timelines v-on:goToGuestBook="navigationHandler('#guest-book')"></Timelines>
     <OurGallery></OurGallery>
     <Envelope id="envelope"></Envelope>
-    <GuestBook id="guest-book"></GuestBook>
   </section>
 </template>
 

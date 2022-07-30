@@ -3,13 +3,13 @@
     <section class="container-section h-screen grid content-end">
       <div 
         class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
-        <p>Pernikahan</p>
-        <h1 class="tangerine-font text-title font-bold">{{ couples.join(' & ') }}</h1>
+        <p>Wedding Invitation</p>
+        <h1 class="dancing-font text-title font-bold">{{ couples.join(' & ') }}</h1>
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
-          <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p>
-          <p class="font-medium my-2 text-lg">{{ query.to }}</p>
-          <small>Izinkan kami turut mengundang anda dalam acara kami</small>
+          <!-- <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p> -->
+          <p class="font-medium text-amber-400 my-2 text-lg">{{ query.to }}</p>
+          <p class="font-medium mt-2">Trân trọng kính mời bạn cùng gia đình đến dự lễ thành hôn của chúng tôi</p>
         </p>
       </div>
     </section>
@@ -22,11 +22,11 @@ import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import decoration from '@/assets/svg/decoration-2.svg'
 
-const couples = ['Fulan', 'Fulanah']
+const couples = ['Lộc', 'Cúc']
 
 const route = useRoute()
 let query = computed(() => route.query)
 
-if ( route.query.to === undefined ) query = { to: 'Saudara/i' }
+if ( route.query.to === undefined ) query = { to: '04.09.2022' }
 
 </script>

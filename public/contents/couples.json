@@ -8,7 +8,7 @@
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
 			"parents": ["Fulan", "Fulanah"],
-			"thumb": "/couples/couple-male.jpg",
+			"thumb": "/couples/chure.png",
 			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
 		},
 		{
@@ -19,7 +19,7 @@
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
 			"parents": ["Fulan", "Fulanah"],
-			"thumb": "/couples/couple-female.jpg",
+			"thumb": "/couples/codau.png",
 			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
 		}
 	]
