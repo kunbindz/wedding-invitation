@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 p,
 a,
@@ -34,6 +35,9 @@ button {
 
 .open-sans-font {
 	font-family: 'Open Sans', sans-serif;
+}
+.great-vibes {
+	font-family: 'Great Vibes', cursive;
 }
 
 /* Global class */

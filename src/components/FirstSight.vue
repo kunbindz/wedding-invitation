@@ -2,17 +2,23 @@
   <section class="w-full mb-12">
     <wave class="fill-gray-800"></wave>
     <section class="container-section">
-      <HeaderSection title="Pandangan Pertama"></HeaderSection>
-      <Card title="Kisah kami berawal dari">
+      <HeaderSection title="Những ngày đầu tiên"
+        subtitle="Trước khi tiến đến hôn nhân, bọn mình đã từng và vẫn đang là những người bạn, là đồng nghiệp, là người yêu của nhau 💖 ">
+      </HeaderSection>
+      <Card title="Nguyễn Nhật Ánh">
         <template v-slot:body>
-          <p class="text-sm p-6 text-justify">
-            In faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum hendrerit malesuada odio. Fusce ut elit ut augue sollicitudin blandit. Phasellus volutpat lorem. Duis non pede et neque luctus tincidunt. Duis interdum tempus elit. Aenean metus. Vestibulum ac lacus. Vivamus porttitor, massa ut hendrerit bibendum, metus.
-            <br><br>
-            Nunc et sem. Aliquam tempor. Nam lobortis sem non urna. Pellentesque et urna sit amet leo accumsan volutpat. Nam molestie lobortis.
+          <p class="text-sm pt-6 pl-6 pr-6 text-justify">
+            “Đôi khi bạn yêu mến một ai đó đơn giản chỉ vì người đó thật lòng yêu mến bạn. Tâm hồn chúng ta được sinh ra
+            là để chờ đáp lại niềm yêu mến từ một tâm hồn khác. Nó giống như chiếc ống sáo, sẵn sàng reo lên khi ngọn
+            gió mùa hè thổi qua. ” 
+            <br>
+            <h6 class="text-sm fill-gray-800 text-center"> - Nguyễn Nhật Ánh -</h6>
+            <br>
           </p>
+
         </template>
         <template v-slot:footer>
-          <img src="@/assets/images/couples.png" class="w-full" alt="">
+          <img src="@/assets/images/lovestory.jpg" class="w-full" alt="">
         </template>
       </Card>
     </section>
