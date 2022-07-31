@@ -14,7 +14,7 @@
       <!-- Our Story -->
       <!-- <OurStory class="mt-10 dynamo"></OurStory> -->
       <!-- Our Video -->
-      <OurVideo class="mt-10"></OurVideo>
+      <!-- <OurVideo class="mt-10"></OurVideo> -->
     </section>
   </section>
 </template>

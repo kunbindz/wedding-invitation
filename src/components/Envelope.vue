@@ -8,7 +8,7 @@
           <div data-aos="zoom-in"
             class="w-8/12 text-center border border-gray-200 mx-auto p-5 mb-5 bg-gray-100 shadow-lg rounded-tl-3xl rounded-br-3xl">
             <img src="@/assets/images/mb.png" alt="mb bank" class="w-5/12 mx-auto mb-3">
-            <p class="text-xl">Gửi quà mừng tới cho {{ wallet.name }}</p>
+            <p class="text-sm">Gửi quà mừng tới cho {{ wallet.name }}</p>
             <Clipboard :content="wallet.number"></Clipboard>
           </div>
         </template>
