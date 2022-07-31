@@ -14,7 +14,7 @@
         <template v-slot:body>
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
             <section data-aos="fade-up">
-              <h1 class="text-2xl satisfy-font text-amber-400">{{ timeline.title }}</h1>
+              <h1 class="text-2xl dancing-font text-amber-400">{{ timeline.title }}</h1>
               <p class="font-medium text-gray-100">{{ timeline.date }} | {{ timeline.time }}</p>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
