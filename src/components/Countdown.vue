@@ -44,7 +44,7 @@ const createTimer = (target, container, cb) => {
 }
 
 const timer = setInterval(() => {
-  createTimer(new Date('2022-09-04 15:30').getTime(), countdown, () => {
+  createTimer(1662280200000, countdown, () => {
     clearInterval(timer)
   })
 }, 1000)

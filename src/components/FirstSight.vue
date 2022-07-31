@@ -8,9 +8,9 @@
       <Card title="Nguyễn Nhật Ánh">
         <template v-slot:body>
           <p class="text-sm pt-6 pl-6 pr-6 text-justify">
-            “Đôi khi bạn yêu mến một ai đó đơn giản chỉ vì người đó thật lòng yêu mến bạn. Tâm hồn chúng ta được sinh ra
+            ❝Đôi khi bạn yêu mến một ai đó đơn giản chỉ vì người đó thật lòng yêu mến bạn. Tâm hồn chúng ta được sinh ra
             là để chờ đáp lại niềm yêu mến từ một tâm hồn khác. Nó giống như chiếc ống sáo, sẵn sàng reo lên khi ngọn
-            gió mùa hè thổi qua. ” 
+            gió mùa hè thổi qua.❞ 
             <br>
             <h6 class="text-sm fill-gray-800 text-center"> - Nguyễn Nhật Ánh -</h6>
             <br>

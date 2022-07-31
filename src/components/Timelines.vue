@@ -32,7 +32,7 @@
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
-              <p class="text-sm text-gray-100">NOTE : Không cần lên đồ lộng lẫy vì chính sự có mặt của bạn đã là trang sức tuyệt vời nhất cho buổi lễ 😄 </p>
+              <p class="text-sm text-gray-100">✍ : Không cần lên đồ lộng lẫy vì chính sự có mặt của bạn đã là trang sức tuyệt vời nhất cho buổi lễ 😄 </p>
               <button onclick="location.href='https://calendar.google.com/calendar/u/0/r/eventedit/NTBvdHN0MGdwam02djdwbGttcDZzY2VubzYgb2JpdG80ODY5QHNldC5lZHUudm4'" class="btn">
                 <i class="fa-solid fa-bookmark"></i>
                 Save the date
