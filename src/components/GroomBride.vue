@@ -2,7 +2,7 @@
   <section class="w-full bg-gradient-to-b from-gray-800 to-gray-700">
     <wave class="fill-white" />
     <section class="container-section">
-      <HeaderSection text-color="text-gray-100" title="Chú Rể & Cô Dâu" subtitle="Cùng xem thêm một vài thông tin về hai nhân vật chính của chúng ta." />
+      <HeaderSection text-color="text-gray-100" title="Chú Rể & Cô Dâu" subtitle="" />
       <Profile></Profile>
     </section>
   </section>
