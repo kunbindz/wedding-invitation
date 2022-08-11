@@ -38,7 +38,7 @@
                 Save the date
               </button>
             </div>
-            <img src="@/assets/images/thank.png" alt="">
+            <img src="@/assets/images/thank.jpg" alt="">
           </section>
         </template>
       </Card>

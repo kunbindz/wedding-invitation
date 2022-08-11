@@ -10,7 +10,7 @@
 			"sex": "Quý nam",
 			"parents": ["Trần Xuân Khuyến", "Hoàng Thị Hà"],
 			"thumb": "/couples/chure.png",
-			"info": "Là một chàng trai ôn hòa, có niềm yêu thích với âm nhạc và những công nghệ mới"
+			"info": " "
 		},
 		{
 			"name": "Nguyễn Thị Hương Cúc",
@@ -22,7 +22,7 @@
 			"sex": "Quý nữ",
 			"parents": ["Nguyễn Duy Quân", "Nguyễn Thị Hường"],
 			"thumb": "/couples/codau.png",
-			"info": "Là một cô gái cá tính và hoạt bát, yêu thích chụp phong cảnh và nghệ thuật bày trí"
+			"info": " "
 		}
 	]
 }
