@@ -1,7 +1,7 @@
 <template>
   <section class="w-full bg-slate-100 pt-12 pb-5">
     <section class="section-container">
-      <HeaderSection title="Digital Gift" subtitle=" Lời chúc của bạn là một món quà vô cùng ý nghĩa đối với chúng tôi và nếu việc tặng quà là thể hiện tình cảm của bạn, bạn có thể tặng một món quà không dùng tiền mặt
+      <HeaderSection title="Digital Gift" subtitle=" Lời chúc của bạn là một món quà vô cùng ý nghĩa đối với chúng tôi và nếu việc tặng quà là thể hiện tình cảm của bạn, bạn có thể tặng một món quà không dùng hiện kim
 "></HeaderSection>
       <section class="">
         <template v-for="(wallet, x) in wallets" :key="x">
