@@ -29,7 +29,7 @@ import { useState } from '@/stores/state.js'
 const state = useState()
 
 const audioEl = ref(null)
-const isPlayed = ref(true)
+const isPlayed = ref(false)
 
 const isAudioPlay = computed(() => state.isAudioPlay)
 
