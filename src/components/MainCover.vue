@@ -9,7 +9,7 @@
           <img class="tw-mx-auto" src="@/assets/images/pemisah.png" alt="divider">
         </div>
         
-        <h1 style="letter-spacing: 0px; font-size: 2.7rem" class="dancing-font font-bold text-amber-400">{{ couples.join(' & ') }}</h1>
+        <h1 style="letter-spacing: -1px; font-size: 2.6rem" class="dancing-font font-bold text-amber-400">{{ couples.join(' & ') }}</h1>
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
           <!-- <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p> -->
