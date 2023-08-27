@@ -27,11 +27,11 @@ import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import decoration from '@/assets/svg/decoration-2.svg'
 
-const couples = ['Xuân Lộc', 'Hương Cúc']
+const couples = ['Vũ Kiên', 'Lê Linh']
 
 const route = useRoute()
 let query = computed(() => route.query)
 
-if ( route.query.to === undefined ) query = { to: '04.09.2022' }
+if ( route.query.to === undefined ) query = { to: '24/09/2023' }
 
 </script>

@@ -2,27 +2,27 @@
 	"timelines": [
 		{
 			"title": "Tiệc Nhà Gái",
-			"date": "Chủ nhật, 04-09-2022",
-			"time": "08:00 - 11:00",
+			"date": "Chủ nhật, 24-09-2023",
+			"time": "07h:00",
 			"location": "Tại tư gia nhà gái",
-			"address": "Đội 5, xã Phú Thịnh, huyện Kim Động, tỉnh Hưng Yên",
-			"map": "https://goo.gl/maps/S8DwgdCFidQ4cgLA6"
+			"address": "Xóm 12, thôn Phúc Hạ, xã Vũ Phúc, thành phố Thái Bình",
+			"map": "https://goo.gl/maps/HsFrTDT2jK6jxhe98"
 		},
 		{
 			"title": "Tiệc Nhà Trai",
-			"date": "Chủ nhật, 04-09-2022",
-			"time": "08:00 - 11:00",
+			"date": "Chủ nhật, 24-09-2023",
+			"time": "07h:00",
 			"location": "Tại tư gia nhà trai",
-			"address": "Thôn Duy Dương, xã Trung Lương , huyện Bình Lục, tỉnh Hà Nam",
-			"map": "https://goo.gl/maps/B5b2pATK4AZ8HR4s6"
+			"address": "Xóm 7, thôn Cộng Hoà, xã Bắc Sơn, huyện Hưng Hà, tỉnh Thái Bình",
+			"map": "https://goo.gl/maps/1NUGhR6pm4q2LKtw8"
 		},
 		{
 			"title": "Lễ Thành Hôn",
-			"date": "Chủ nhật, 04-09-2022",
-			"time": "15:30",
-			"location": "Tại tư gia nhà trai",	
-			"address": "Thôn Duy Dương, xã Trung Lương , huyện Bình Lục, tỉnh Hà Nam",
-			"map": "https://goo.gl/maps/B5b2pATK4AZ8HR4s6"
+			"date": "Chủ nhật, 24-09-2023 ( tức 10/8 Quý Mão)",
+			"time": "10h:30",
+			"location": "Tại tư gia nhà trai",
+			"address": "Xóm 7, thôn Cộng Hoà, xã Bắc Sơn, huyện Hưng Hà, tỉnh Thái Bình",
+			"map": "https://goo.gl/maps/1NUGhR6pm4q2LKtw8"
 		}
 	]
 }

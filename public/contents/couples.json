@@ -1,27 +1,27 @@
 {
 	"couples": [
 		{
-			"name": "Trần Xuân Lộc",
+			"name": "Vũ Văn Kiên",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com/obito.980" },
 				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/kunbindz" },
 				{ "icon": "fab fa fa-skype", "link": "https://join.skype.com/invite/VCDZHA3dpGs1" }
 			],
 			"sex": "Quý nam",
-			"parents": ["Trần Xuân Khuyến", "Hoàng Thị Hà"],
-			"thumb": "/couples/chure.png",
+			"parents": ["Vũ Văn Đại", "Đào Thị Hạnh"],
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload//c_thumb,w_1200,h_1260,g_auto/v1692892559/z4633454033822_15651e52b3f9091899c1da79236a9c2b_r8hujy.jpg",
 			"info": " "
 		},
 		{
-			"name": "Nguyễn Thị Hương Cúc",
+			"name": "Lê Thị Linh",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com/alizz2905" },
 				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/cookchechow" },
 				{ "icon": "fab fa fa-skype", "link": "https://join.skype.com/invite/uZ4T4PtxW0Fz" }
 			],
 			"sex": "Quý nữ",
-			"parents": ["Nguyễn Duy Quân", "Nguyễn Thị Hường"],
-			"thumb": "/couples/codau.png",
+			"parents": ["Lê Đình Vận", "Bùi Thị Lân"],
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1692893022/Screenshot_2023-08-24_230321_a2n6g0.png",
 			"info": " "
 		}
 	]

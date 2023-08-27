@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "couples": "url('@/assets/images/img.jpg')",
+        "couples": "url('https://res.cloudinary.com/ecommerce-picture/image/upload/c_scale,h_2560,w_1706/v1692889366/DTA03402_vfz9he.jpg')",
         "texture": "url('@/assets/textures/paper.png')",
         "prewedding": "url('@/assets/prewedding.jpg')"
       },
