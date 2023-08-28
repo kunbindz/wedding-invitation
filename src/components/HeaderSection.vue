@@ -17,7 +17,7 @@ const props = defineProps({
   }, 
   subtitle: {
     type: String,
-    default: 'Duis splople autem vel eum iriure Dapibus sit amet, tincidunt eu, nibh.'
+    default: 'Lưu giữ những khoảnh khắc bên nhau.'
   },
   textColor: {
     type: String,

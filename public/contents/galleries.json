@@ -1,10 +1,11 @@
+
 {
 	"galleries": [
-		"galleries/img1.jpg",
-		"galleries/img2.jpg",
-		"galleries/img4.jpg",
-		"galleries/codau.jpg",
-		"galleries/chure.jpg",
-		"galleries/img7.jpg"
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/v1693232431/z4632339163267_ddf5586a799b49ee3508464508338a3f_rbrtmw.jpg",
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/c_scale,h_2080,w_1180/v1693232431/z4632339195856_666f3664e99f04b7ad740e7b907db446_rmxcpu.jpg",
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/v1693232834/z4632339177596_9cc228fc5df86aedaafb5e2ea875f1a6_yxusrn.jpg",
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/v1693232430/z4632339213275_cd353b5586e9fd23421300bae58e4f7d_qlvnym.jpg",
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/v1693232430/z4632339184400_93ef8aceff69c28123383cc72646ca35_r7chsd.jpg",
+		"https://res.cloudinary.com/ecommerce-picture/image/upload/v1693232431/z4633480494573_640a4f5946748dea041caa6b560e87cd_dz8hvs.jpg"
 	]
 }
