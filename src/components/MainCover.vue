@@ -27,7 +27,7 @@ import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import decoration from '@/assets/svg/decoration-2.svg'
 
-const couples = ['Vũ Kiên', 'Lê Linh']
+const couples = ['Trung Kiên', 'Thùy Linh']
 
 const route = useRoute()
 let query = computed(() => route.query)

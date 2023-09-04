@@ -22,8 +22,7 @@
       <section class="container-section bg-slate-100">
         <div class="text-center">
 
-            <a target="_blank" class="btn" href="https://drive.google.com/drive/folders/1dkz2omUkYyJGqk8yYbAN4Uf597-q6cOK?usp=sharing">
-                
+            <a target="_blank" class="btn" href="https://drive.google.com/drive/folders/1dkz2omUkYyJGqk8yYbAN4Uf597-q6cOK?usp=sharing">            
                 View more
             </a>
           

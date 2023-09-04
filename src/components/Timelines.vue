@@ -15,7 +15,8 @@
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
             <section data-aos="fade-up">
               <h1 class="text-2xl dancing-font text-amber-400">{{ timeline.title }}</h1>
-              <p class="font-medium text-gray-100">{{ timeline.date }} | {{ timeline.time }}</p>
+              <p class="font-medium text-gray-100">{{ timeline.date }} </p>
+              <p class="font-medium text-gray-100">{{ timeline.time }} </p>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
               <p class="text-gray-200">{{ timeline.address }}</p>
@@ -32,7 +33,7 @@
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
-              <p class="text-sm text-gray-100">✍ : Không cần lên đồ lộng lẫy vì chính sự có mặt của bạn đã là trang sức tuyệt vời nhất cho buổi lễ 😄 </p>
+              <!-- <p class="text-sm text-gray-100">✍ : Không cần lên đồ lộng lẫy vì chính sự có mặt của bạn đã là trang sức tuyệt vời nhất cho buổi lễ 😄 </p> -->
               <button onclick="location.href='https://calendar.google.com/calendar/u/0/r'" class="btn">
                 <i class="fa-solid fa-bookmark"></i>
                 Save the date

@@ -2,9 +2,9 @@
   <section class="w-full mb-12">
     <wave class="fill-gray-800"></wave>
     <section class="container-section">
-      <HeaderSection title="Những ngày đầu tiên"
+      <!-- <HeaderSection title="Những ngày đầu tiên"
         subtitle="Trước khi tiến đến hôn nhân, bọn mình đã quen biết nhau với tư cách là đồng nghiệp sau đó phát triển lên tình bạn và giờ là tình yêu 💖 ">
-      </HeaderSection>
+      </HeaderSection> -->
       <Card title="Nguyễn Nhật Ánh">
         <template v-slot:body>
           <p class="text-sm pt-6 pl-6 pr-6 text-justify">

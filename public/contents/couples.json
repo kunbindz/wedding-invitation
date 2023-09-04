@@ -1,11 +1,11 @@
 {
 	"couples": [
 		{
-			"name": "Vũ Văn Kiên",
+			"name": "Trung Kiên",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com/obito.980" },
+				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com" },
 				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/Kienkien98tb" },
-				{ "icon": "fab fa fa-skype", "link": "https://join.skype.com/invite/VCDZHA3dpGs1" }
+				{ "icon": "fab fa fa-twitter", "link": "https://twitter.com/home" }
 			],
 			"sex": "Quý nam",
 			"parents": ["Vũ Văn Đại", "Đào Thị Hạnh"],
@@ -13,11 +13,11 @@
 			"info": " "
 		},
 		{
-			"name": "Lê Thị Linh",
+			"name": "Thùy Linh",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com/alizz2905" },
+				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com" },
 				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/profile.php?id=100017825769596" },
-				{ "icon": "fab fa fa-skype", "link": "https://join.skype.com/invite/uZ4T4PtxW0Fz" }
+				{ "icon": "fab fa fa-twitter", "link": "https://twitter.com/home" }
 			],
 			"sex": "Quý nữ",
 			"parents": ["Lê Đình Vận", "Bùi Thị Lân"],

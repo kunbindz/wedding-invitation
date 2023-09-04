@@ -1,7 +1,7 @@
 <template>
-  <section class="container-section bg-slate-100">
+  <section class="container-video  bg-slate-100">
     <HeaderSection title="Video ngắn của chúng tôi" />
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/RbegecDGi2s?si=ZjrzVAw-0U4Rw0d_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/xMRGXvocwxc?si=LCBWe26p53-Xvdg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </section>
 </template>
 

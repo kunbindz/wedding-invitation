@@ -7,8 +7,8 @@
         <template v-for="(wallet, x) in wallets" :key="x">
           <div data-aos="zoom-in"
             class="w-8/12 text-center border border-gray-200 mx-auto p-5 mb-5 bg-gray-100 shadow-lg rounded-tl-3xl rounded-br-3xl">
-            <img src="@/assets/images/mb.png" alt="mb bank" class="w-5/12 mx-auto mb-3">
-            <p class="text-sm">Gửi quà mừng tới cho {{ wallet.name }}</p>
+            <p class="text-sm mb-3">Gửi quà mừng tới cho {{ wallet.name }}</p>
+            <img :src="wallet.img" alt="mb bank" class="w-5/12 mx-auto mb-3">
             <Clipboard :content="wallet.number"></Clipboard>
           </div>
         </template>
@@ -24,10 +24,12 @@ import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
   {
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1693819333/370635634_1365014237416388_477268801967621570_n_gnvvfo.jpg',
     name: 'chú rể',
     number: '0505120238888',
   },
   {
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1693819333/370635634_1365014237416388_477268801967621570_n_1_kxrpkf.jpg',
     name: 'cô dâu',
     number: '290519986688',
   }

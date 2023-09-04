@@ -17,7 +17,8 @@ const props = defineProps({
   }, 
   subtitle: {
     type: String,
-    default: 'Lưu giữ những khoảnh khắc bên nhau.'
+    // default: 'Lưu giữ những khoảnh khắc bên nhau.'
+    default: ''
   },
   textColor: {
     type: String,
