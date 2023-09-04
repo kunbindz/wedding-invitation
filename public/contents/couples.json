@@ -3,9 +3,7 @@
 		{
 			"name": "Trung Kiên",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com" },
-				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/Kienkien98tb" },
-				{ "icon": "fab fa fa-twitter", "link": "https://twitter.com/home" }
+				
 			],
 			"sex": "Quý nam",
 			"parents": ["Vũ Văn Đại", "Đào Thị Hạnh"],
@@ -15,9 +13,7 @@
 		{
 			"name": "Thùy Linh",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://www.instagram.com" },
-				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/profile.php?id=100017825769596" },
-				{ "icon": "fab fa fa-twitter", "link": "https://twitter.com/home" }
+				
 			],
 			"sex": "Quý nữ",
 			"parents": ["Lê Đình Vận", "Bùi Thị Lân"],
