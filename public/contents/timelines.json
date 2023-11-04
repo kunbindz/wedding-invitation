@@ -1,28 +1,20 @@
 {
 	"timelines": [
 		{
-			"title": "Tiệc Nhà Trai",
-			"date": "Chủ nhật, 24-09-2023 ( tức 10/8 Quý Mão)",
-			"time": "Vào hồi 07h:00",
-			"location": "Tại tư gia nhà trai",
-			"address": "Xóm 7, thôn Cộng Hoà, xã Bắc Sơn, huyện Hưng Hà, tỉnh Thái Bình",
-			"map": "https://goo.gl/maps/SyjLzsk5UajeRg3w5"
-		},
-		{
-			"title": "Tiệc Nhà Gái",
-			"date": "Chủ nhật, 24-09-2023 ( tức 10/8 Quý Mão)",
-			"time": "Vào hồi 07h:00",
-			"location": "Tại tư gia nhà gái",
-			"address": "Xóm 12, thôn Phúc Hạ, xã Vũ Phúc, thành phố Thái Bình",
-			"map": "https://goo.gl/maps/HsFrTDT2jK6jxhe98"
+			"title": "Tiệc Cưới",
+			"date": "Chủ nhật, 03/12/2023 ( tức 21/10 Quý Mão)",
+			"time": "Vào hồi 10h:05",
+			"location": "Học viện biên phòng",
+			"address": "Số 1 ngõ 62 Trần Bình, Mai Dịch, Hà Nội",
+			"map": "https://maps.app.goo.gl/ZSae3roDBgmKUtE67"
 		},
 		{
 			"title": "Lễ Thành Hôn",
-			"date": "Chủ nhật, 24-09-2023 ( tức 10/8 Quý Mão)",
-			"time": "Vào hồi 10h:30",
-			"location": "Tại tư gia nhà trai",
-			"address": "Xóm 7, thôn Cộng Hoà, xã Bắc Sơn, huyện Hưng Hà, tỉnh Thái Bình",
-			"map": "https://goo.gl/maps/SyjLzsk5UajeRg3w5"
+			"date": "Chủ nhật, 03/12/2023 ( tức 21/10 Quý Mão)",
+			"time": "Vào hồi 11h:55",
+			"location": "Học viện biên phòng",
+			"address": "Số 1 ngõ 62 Trần Bình, Mai Dịch, Hà Nội",
+			"map": "https://maps.app.goo.gl/ZSae3roDBgmKUtE67"
 		}
 	]
 }

@@ -1,23 +1,23 @@
 {
 	"couples": [
 		{
-			"name": "Trung Kiên",
+			"name": "Xuân Trinh",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nam",
 			"parents": ["Vũ Văn Đại", "Đào Thị Hạnh"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload//c_thumb,w_1200,h_1260,g_auto/v1692892559/z4633454033822_15651e52b3f9091899c1da79236a9c2b_r8hujy.jpg",
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699094106/BIS09187_pb2rd4.jpg",
 			"info": " "
 		},
 		{
-			"name": "Thùy Linh",
+			"name": "Minh Quyên",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nữ",
 			"parents": ["Lê Đình Vận", "Bùi Thị Lân"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1692893022/Screenshot_2023-08-24_230321_a2n6g0.png",
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699094103/BIS08913_e2mxdn.jpg",
 			"info": " "
 		}
 	]
