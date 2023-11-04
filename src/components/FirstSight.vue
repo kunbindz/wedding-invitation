@@ -18,7 +18,7 @@
 
         </template>
         <template v-slot:footer>
-          <img src="https:///res-console.cloudinary.com/ecommerce-picture/thumbnails/transform/v1/image/upload//v1699094219/QklTMDg0OTRfZ21hZGJq/drilldown" class="w-full" alt="">
+          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/q_65/v1699115621/BIS08494_gmadbj.jpg" class="w-full" alt="">
         </template>
       </Card>
     </section>
