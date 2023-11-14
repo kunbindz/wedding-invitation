@@ -7,7 +7,7 @@
 </style>
 
 <template>
-  <section class="w-full bg-gradient-to-b from-gray-700 to-gray-600">
+  <section class="w-full bg-gradient-to-b from-red-700 to-red-600">
     <section class="container-section pb-12">
       <HeaderSection text-color="text-gray-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
       <Card>
