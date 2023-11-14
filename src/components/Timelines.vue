@@ -7,9 +7,9 @@
 </style>
 
 <template>
-  <section class="w-full bg-gradient-to-b from-red-700 to-red-600">
+  <section class="w-full bg-gradient-to-b from-red-300 to-red-300">
     <section class="container-section pb-12">
-      <HeaderSection text-color="text-gray-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
+      <HeaderSection text-color="text-orange-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
       <Card>
         <template v-slot:body>
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">

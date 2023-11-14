@@ -1,6 +1,6 @@
 <template>
   <section class="w-full mb-12">
-    <wave class="fill-red-800"></wave>
+    <wave class="fill-red-300"></wave>
     <section class="container-section">
       <!-- <HeaderSection title="Những ngày đầu tiên"
         subtitle="Trước khi tiến đến hôn nhân, bọn mình đã quen biết nhau với tư cách là đồng nghiệp sau đó phát triển lên tình bạn và giờ là tình yêu 💖 ">
