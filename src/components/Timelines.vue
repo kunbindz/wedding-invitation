@@ -1,7 +1,7 @@
 <style scoped>
 
 .btn {
-  @apply active:scale-95 active:ring-gray-200 active:ring duration-300 rounded-3xl px-3 py-2 text-amber-500 bg-gray-800 inline-block w-10/12 mt-4;
+  @apply active:scale-95 active:ring-gray-200 active:ring duration-300 rounded-3xl px-3 py-2 text-orange-50 bg-red-300 inline-block w-10/12 mt-4;
 }
 
 </style>
@@ -12,14 +12,14 @@
       <HeaderSection text-color="text-orange-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
       <Card>
         <template v-slot:body>
-          <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
+          <div class="bg-orange-50 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
             <section data-aos="fade-up">
-              <h1 class="text-2xl dancing-font text-amber-400">{{ timeline.title }}</h1>
-              <p class="font-medium text-gray-100">{{ timeline.date }} </p>
-              <p class="font-medium text-gray-100">{{ timeline.time }} </p>
+              <h1 class="text-2xl dancing-font text-red-300">{{ timeline.title }}</h1>
+              <p class="font-medium text-neutral-500">{{ timeline.date }} </p>
+              <p class="font-medium text-neutral-500">{{ timeline.time }} </p>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
-              <p class="text-amber-500">{{ timeline.location }}</p>
-              <p class="text-gray-200">{{ timeline.address }}</p>
+              <p class="text-red-300">{{ timeline.location }}</p>
+              <p class="text-neutral-500">{{ timeline.address }}</p>
               <a target="_blank" class="btn" :href="timeline.map">
                 <i class="fa-solid fa-map"></i>
                 Via Google Map
@@ -29,7 +29,7 @@
           </div>
         </template>
         <template v-slot:footer>
-          <section class="bg-gray-900">
+          <section class="bg-orange-50">
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
