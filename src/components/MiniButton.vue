@@ -8,7 +8,7 @@
 
 <template>
   <audio ref="audioEl" autoplay loop>
-    <source src="@/assets/audio/motnha.mp3" type="audio/mp3">
+    <source src="@/assets/audio/XungDoiCuoiThoi-LeThienHieu-6010565.mp3" type="audio/mp3">
   </audio>
   <section class="fixed bottom-24 pl-2">
     <button class="button" @click="control">
