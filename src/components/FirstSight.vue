@@ -13,17 +13,15 @@
     <Card title="Nguyễn Nhật Ánh">
       <template v-slot:body>
           <p class="text-sm pt-6 pl-6 pr-6 text-justify">
-            ❝ Đôi khi bạn yêu mến một ai đó đơn giản chỉ vì người đó thật lòng yêu mến bạn. Tâm hồn chúng ta được sinh ra
-            là để chờ đáp lại niềm yêu mến từ một tâm hồn khác. Nó giống như chiếc ống sáo, sẵn sàng reo lên khi ngọn
-            gió mùa hè thổi qua. ❞
+            ❝ Tình yêu là sự đồng điệu lạ kì của hai trái tim, như hòa chung một nhịp, là chia sẻ, là gắn kết, là xem ai đó như cả thế giới, là muốn bên ai đó một đời. ❞
             <br>
-            <h6 class="text-sm fill-gray-800 text-center"> - Nguyễn Nhật Ánh -</h6>
+            <h6 class="text-sm fill-gray-800 text-end"> ~ Khuyết danh ~</h6>
             <br>
           </p>
 
         </template>
         <template v-slot:footer>
-          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/q_65/v1699115621/BIS08494_gmadbj.jpg" class="w-full" alt="">
+          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1700295564/IMG_8902_mbhmbl.jpg" class="w-full" alt="">
         </template>
     </Card>
     <img class="frame bottom-0 left-0 rotate-180" src="@/assets/images/frame.png" alt="frame" style="position: absolute; bottom: -92px; width: 300px;">

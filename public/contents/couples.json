@@ -1,23 +1,23 @@
 {
 	"couples": [
 		{
-			"name": "Xuân Trinh",
+			"name": "Văn Việt",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nam",
-			"parents": ["của", "mẹ Trương Thị Nhài"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699118432/BIS09187_z0b4bf.jpg",
+			"parents": ["của bố Nguyễn Đức Thưởng", "và mẹ Nguyễn Thị Huế"],
+			"thumb": "https:///res-console.cloudinary.com/ecommerce-picture/thumbnails/transform/v1/image/upload//v1700297326/SU1HXzg4NzBfa3Z0anJy/drilldown",
 			"info": " "
 		},
 		{
-			"name": "Minh Quyên",
+			"name": "Phượng Đào",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nữ",
-			"parents": ["của bố Nguyễn Văn Bảo", "và mẹ Nguyễn Thị Hương"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699118434/BIS08913_g3vfvi.jpg",
+			"parents": ["của bố Đào Văn Phương", "và mẹ Nguyễn Thị Hạt"],
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1700295839/IMG_8892_oepe5b.jpg",
 			"info": " "
 		}
 	]
