@@ -39,7 +39,7 @@
                 Save the date
               </button>
             </div>
-            <img src="https:///res-console.cloudinary.com/ecommerce-picture/thumbnails/transform/v1/image/upload//v1700296851/SU1HXzg4MjVfenp3ZzV1/drilldown" alt="">
+            <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1700294457/IMG_8825_zzwg5u.jpg" alt="">
           </section>
         </template>
       </Card>
