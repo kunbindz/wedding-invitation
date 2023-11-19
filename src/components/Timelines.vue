@@ -12,7 +12,7 @@
       <HeaderSection text-color="text-orange-100" subtitle="Bằng tất cả sự tôn trọng, chúng tôi kính mời bạn đến tham dự chuỗi sự kiện cùng chúng tôi" title="Sự Kiện"></HeaderSection>
       <Card>
         <template v-slot:body>
-          <div class="bg-orange-50 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
+          <div class="bg-orange-50 px-6 py-8 pb-4 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
             <section data-aos="fade-up">
               <h1 class="text-2xl dancing-font text-red-300">{{ timeline.title }}</h1>
               <p class="font-medium text-neutral-500">{{ timeline.date }} </p>
