@@ -1,22 +1,22 @@
 {
 	"couples": [
 		{
-			"name": "Văn Việt",
+			"name": "Đức Anh",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nam",
-			"parents": ["của bố Nguyễn Đức Thưởng", "và mẹ Nguyễn Thị Huế"],
+			"parents": ["của bố Đào Văn Khanh", "và mẹ Bùi Thị Thắm"],
 			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1700295960/IMG_8870_kvtjrr.jpg",
 			"info": " "
 		},
 		{
-			"name": "Phượng Đào",
+			"name": "Vũ Thảo",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nữ",
-			"parents": ["của bố Đào Văn Phương", "và mẹ Nguyễn Thị Hạt"],
+			"parents": ["của bố Vũ Hồng Quân", "và mẹ Bùi Thị Minh"],
 			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1700295839/IMG_8892_oepe5b.jpg",
 			"info": " "
 		}

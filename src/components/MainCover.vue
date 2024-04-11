@@ -2,7 +2,7 @@
   <section class="w-full bg-couples bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div
-        class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-red-300 backdrop-blur-sm rounded-t-3xl py-10"
+        class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-red-300 backdrop-blur-sm rounded-t-3xl py-10 bg-opacity-60 "
       >
         <p>Wedding Invitation</p>
         <div style="display:flex; justify-content: center;" class="pt-2">
@@ -27,11 +27,11 @@ import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import decoration from '@/assets/svg/decoration-2.svg'
 
-const couples = ['Văn Việt', 'Phượng Đào']
+const couples = ['Đức Anh', 'Vũ Thảo']
 
 const route = useRoute()
 let query = computed(() => route.query)
 
-if ( route.query.to === undefined ) query = { to: '03/12/2023' }
+if ( route.query.to === undefined ) query = { to: '28/04/2024' }
 
 </script>

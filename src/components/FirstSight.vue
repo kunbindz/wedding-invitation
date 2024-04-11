@@ -10,18 +10,18 @@
     
     
     
-    <Card title="Nguyễn Nhật Ánh">
+    <Card>
       <template v-slot:body>
           <p class="text-sm pt-6 pl-6 pr-6 text-justify">
-            ❝ Tình yêu là sự đồng điệu lạ kì của hai trái tim, như hòa chung một nhịp, là chia sẻ, là gắn kết, là xem ai đó như cả thế giới, là muốn bên ai đó một đời. ❞
+            ❝ Tình yêu là sự đồng điệu lạ kì của hai trái tim, như hòa chung một nhịp, là chia sẻ, là gắn kết, là xem ai đó như cả thế giới, là muốn bên ai đó một đời.💖❞
             <br>
-            <h6 class="text-sm fill-gray-800 text-end"> ~ Khuyết danh ~</h6>
+            <!-- <h6 class="text-sm fill-gray-800 text-end"> ~ Khuyết danh ~</h6> -->
             <br>
           </p>
 
         </template>
         <template v-slot:footer>
-          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1700295564/IMG_8902_mbhmbl.jpg" class="w-full" alt="">
+          <img src="https://res-console.cloudinary.com/ecommerce-picture/thumbnails/transform/v1/image/upload//v1712849433/YXBfMV9nYmI5NTU=/drilldown" class="w-full" alt="">
         </template>
     </Card>
     <img class="frame bottom-0 left-0 rotate-180" src="@/assets/images/frame.png" alt="frame" style="position: absolute; bottom: -92px; width: 300px;">
