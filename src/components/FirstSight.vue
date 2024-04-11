@@ -21,7 +21,7 @@
 
         </template>
         <template v-slot:footer>
-          <img src="https://res-console.cloudinary.com/ecommerce-picture/thumbnails/transform/v1/image/upload//v1712849433/YXBfMV9nYmI5NTU=/drilldown" class="w-full" alt="">
+          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1712849433/ap_1_gbb955.jpg" class="w-full" alt="">
         </template>
     </Card>
     <img class="frame bottom-0 left-0 rotate-180" src="@/assets/images/frame.png" alt="frame" style="position: absolute; bottom: -92px; width: 300px;">
