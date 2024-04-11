@@ -2,28 +2,28 @@
 	"timelines": [
 		{
 			"title": "Tiệc nhà trai",
-			"date": "Chủ nhật, 28/104/20244 (20/03 Giáp Thìn)",
-			"time": "",
+			"date": "Chủ nhật, 28/104/2024 (20/03 Giáp Thìn)",
+			"time": "Vào hồi: 09h00",
 			"location": "Tại tư gia nhà trai",
 			"address": "Thôn Cổ Hội Tây, xã Đông Quan, huyện Đông Hưng, Thái Bình",
-			"map": "https://maps.app.goo.gl/WmWYLjXvsdPRCeN2A"
+			"map": "https://maps.app.goo.gl/CKe1FFa7RNzeKT577"
 		},
 		{
 			"title": "Tiệc nhà gái ",
-			"date": "Chủ nhật, 28/104/20244 (20/03 Giáp Thìn)",
-			"time": "",
+			"date": "Chủ nhật, 28/104/2024 (20/03 Giáp Thìn)",
+			"time": "Vào hồi: 09h00",
 			"location": "Tại tư gia nhà gái",
-			"address": "SN 37, thôn Lại Hoàng, xã Yên Thường, Gia Lâm, Hà Nội",
-			"map": "https://maps.app.goo.gl/vKenDBV1XZjSZY5B9"
+			"address": "Thôn Cổ Hội Tây, xã Đông Quan, huyện Đông Hưng, Thái Bình",
+			"map": "https://maps.app.goo.gl/CKe1FFa7RNzeKT577"
 		},
 	
 		{
 			"title": "Lễ Thành Hôn",
-			"date": "Chủ nhật, 03/12/2023 (21/10 Quý Mão)",
-			"time": "",
+			"date": "Chủ nhật, 28/104/2024 ( Tức 20/03 Giáp Thìn)",
+			"time": "Vào hồi: 11h00",
 			"location": "Tại tư gia",
-			"address": "Thôn Nho Lâm, xã Mai Động, huyện Kim Động, tỉnh Hưng Yên",
-			"map": "https://maps.app.goo.gl/WmWYLjXvsdPRCeN2A"
+			"address": "Thôn Cổ Hội Tây, xã Đông Quan, huyện Đông Hưng, Thái Bình",
+			"map": "https://maps.app.goo.gl/CKe1FFa7RNzeKT577"
 		}
 	]
 }
