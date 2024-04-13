@@ -24,14 +24,14 @@ import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
   {
-    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1700297124/Screenshot_2023-11-18_154508_enm5lc.png',
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1713022334/Screenshot_2024-04-13_222707_jspyjc.png',
     name: 'chú rể',
-    number: '0965638043',
+    number: '20418081998',
   },
   {
-    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1700297010/Screenshot_2023-11-18_154301_qctdqt.png',
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1713022333/Screenshot_2024-04-13_222730_emabrm.png',
     name: 'cô dâu',
-    number: '99901092000',
+    number: '0011004437376',
   }
 ]
 </script>
