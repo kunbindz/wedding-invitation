@@ -13,7 +13,7 @@
         <decoration class="fill-yellow-300 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
           <!-- <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p> -->
-          <p style="letter-spacing: 2px" class="font-medium text-orange-50 my-2 text-lg">{{ query.to }}</p>
+          <p style="letter-spacing: 2px" class="font-medium text-orange-50 my-2 text-2xl	">{{ query.to }}</p>
           <p class="font-medium text-lg mt-2 px-6">Trân trọng kính mời bạn cùng gia đình đến dự lễ thành hôn của chúng tôi</p>
         </p>
       </div>

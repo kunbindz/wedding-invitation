@@ -16,6 +16,7 @@
             <section data-aos="fade-up">
               <h1 class="text-2xl dancing-font text-red-300">{{ timeline.title }}</h1>
               <p class="font-medium text-neutral-500">{{ timeline.date }} </p>
+              <p class="font-medium text-neutral-500">{{ timeline.date2 }} </p>
               <p class="font-medium text-neutral-500">{{ timeline.time }} </p>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-red-300">{{ timeline.location }}</p>

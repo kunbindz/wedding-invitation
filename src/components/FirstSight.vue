@@ -24,7 +24,7 @@
           <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1712849433/ap_1_gbb955.jpg" class="w-full" alt="">
         </template>
     </Card>
-    <img class="frame bottom-0 left-0 rotate-180" src="@/assets/images/frame.png" alt="frame" style="position: absolute; bottom: -92px; width: 300px;">
+    
       <!-- <img class="frame bottom-0 right-0 rotate-180" src="@/assets/images/frame-mirror.png" alt="frame"> -->
     </section>
   </section>
