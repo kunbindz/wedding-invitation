@@ -1,13 +1,13 @@
 {
 	"timelines": [
 		{
-			"title": "Tiệc nhà trai",
-			"date": "Thứ 7, 27/04/2024",
-			"date2": "(Tức 20/03 Giáp Thìn)",
-			"time": "Vào lúc: 16h00",
-			"location": "Tại tư gia nhà trai",
-			"address": "Thôn Cổ Hội Tây, xã Đông Quan, huyện Đông Hưng, Thái Bình",
-			"map": "https://maps.app.goo.gl/CKe1FFa7RNzeKT577"
+			"title": "Tiệc Cưới",
+			"date": "Thứ 7, 21/09/2024 ",
+			"date2": "(19/08 Giáp Thìn)",
+			"time": "Vào hồi 16h:00",
+			"location": "Tư gia nhà trai",
+			"address": "Xóm 1, thôn Thượng, xã An Tràng, huyện Quỳnh Phụ, tỉnh Thái Bình",
+			"map": "https://maps.app.goo.gl/Ai8YUjUTJ4dQhFWc6"
 		},
 		{
 			"title": "Tiệc nhà gái ",
@@ -21,12 +21,12 @@
 	
 		{
 			"title": "Lễ Thành Hôn",
-			"date": "Chủ nhật, 28/04/2024",
-			"date2": "(Tức 20/03 Giáp Thìn)",
-			"time": "Vào lúc: 11h00",
-			"location": "Tại tư gia",
-			"address": "Thôn Cổ Hội Tây, xã Đông Quan, huyện Đông Hưng, Thái Bình",
-			"map": "https://maps.app.goo.gl/CKe1FFa7RNzeKT577"
+			"date": "Chủ nhật, 22/09/2024 ",
+			"date2": "(20/08 Giáp Thìn)",
+			"time": "Vào hồi 11h:30",
+			"location": "Tư gia nhà trai",
+			"address": "Xóm 1, thôn Thượng, xã An Tràng, huyện Quỳnh Phụ, tỉnh Thái Bình",
+			"map": "https://maps.app.goo.gl/Ai8YUjUTJ4dQhFWc6"
 		}
 	]
 }

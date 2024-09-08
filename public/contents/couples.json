@@ -1,23 +1,23 @@
 {
 	"couples": [
 		{
-			"name": "Đức Anh",
+			"name": "Đăng Thanh",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nam",
-			"parents": ["của bố Đào Văn Khanh", "và mẹ Bùi Thị Thắm"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1713188278/download_ucjxkt.jpg",
+			"parents": ["của bố Phạm Đăng Sang", "và mẹ Hoà Thị Hằng"],
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699118432/BIS09187_z0b4bf.jpg",
 			"info": " "
 		},
 		{
-			"name": "Vũ Phương Thảo",
+			"name": "Trần Hà",
 			"sosmed": [
 				
 			],
 			"sex": "Quý nữ",
-			"parents": ["của bố Vũ Hồng Quân", "và mẹ Bùi Thị Minh"],
-			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1713188277/download_1_boapbw.jpg",
+			"parents": ["của mẹ Khúc Thị Thúy"],
+			"thumb": "https://res.cloudinary.com/ecommerce-picture/image/upload/v1699118434/BIS08913_g3vfvi.jpg",
 			"info": " "
 		}
 	]
