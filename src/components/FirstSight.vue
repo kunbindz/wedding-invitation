@@ -2,9 +2,9 @@
   <section class="w-full mb-12" style="position: relative;">
     <wave class="fill-red-300"></wave>
     <section class="container-section">
-      <!-- <HeaderSection title="Những ngày đầu tiên"
+      <HeaderSection title="Những ngày đầu tiên"
         subtitle="Trước khi tiến đến hôn nhân, bọn mình đã quen biết nhau với tư cách là đồng nghiệp sau đó phát triển lên tình bạn và giờ là tình yêu 💖 ">
-      </HeaderSection> -->
+      </HeaderSection>
       <!-- <img class="frame top-0 left-0 animate__animated animate__fadeInLeft" src="@/assets/images/frame-mirror.png" alt="frame"> -->
     <!-- <img class="frame top-0 right-0 animate__animated animate__fadeInRight" src="@/assets/images/frame.png" alt="frame"> -->
     
@@ -21,7 +21,7 @@
 
         </template>
         <template v-slot:footer>
-          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1712849433/ap_1_gbb955.jpg" class="w-full" alt="">
+          <img src="https://res.cloudinary.com/ecommerce-picture/image/upload/v1726156717/z5821601316967_ac15229646f7e20c9f478d0c50ead1ca_ylt2hx.jpg" class="w-full" alt="">
         </template>
     </Card>
     

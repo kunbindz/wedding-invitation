@@ -24,9 +24,9 @@ import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
   {
-    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1713022334/Screenshot_2024-04-13_222707_jspyjc.png',
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1726158313/QR1_rgkk09.png',
     name: 'chú rể',
-    number: '20418081998',
+    number: '0380 5963 501',
   },
   {
     img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1713022333/Screenshot_2024-04-13_222730_emabrm.png',
