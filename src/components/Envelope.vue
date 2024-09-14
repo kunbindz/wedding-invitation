@@ -26,12 +26,12 @@ const wallets = [
   {
     img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1726158313/QR1_rgkk09.png',
     name: 'chú rể',
-    number: '0380 5963 501',
+    number: '03805963501',
   },
   {
-    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1713022333/Screenshot_2024-04-13_222730_emabrm.png',
+    img: 'https://res.cloudinary.com/ecommerce-picture/image/upload/v1726290324/Screenshot_2024-09-14_113734_wk0myc.png',
     name: 'cô dâu',
-    number: '0011004437376',
+    number: '02110005000129',
   }
 ]
 </script>

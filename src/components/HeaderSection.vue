@@ -13,7 +13,7 @@ import decoration from '@/assets/svg/decoration-2.svg'
 const props = defineProps({
   title: {
     type: String,
-    default: 'The Section'
+    default: ''
   }, 
   subtitle: {
     type: String,
